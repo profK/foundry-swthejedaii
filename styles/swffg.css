@@ -182,6 +182,7 @@ div .container.talents {
   height: 40px;
   padding-bottom: 4px;
   padding-left: 2px;
+  padding-top: 10px;
   margin: 0;
   display: inline-table;
 }
